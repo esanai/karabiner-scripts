@@ -4,7 +4,7 @@
 2. Copy the link that you want to use and paste it on your web browser(links start with `karabiner://...`).
 
 ## For Koreans
-### Change Language
+### Right Command to Change Language
 Change language with <kbd>Right Command</kbd> instead of <kbd>Control</kbd> + <kbd>Space</kbd>
 ```
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/esanai/karabiner-scripts/master/right-cmd-to-change-language.json
