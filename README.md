@@ -21,7 +21,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>Tab</kbd> + <kbd>H</kbd>/<kbd>J</kbd>/<kbd>K</kbd>/<kbd>L</kbd> | Select with arrow keys |
 
 ```
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/esanai/karabiner-scripts/master/vi-mode-with-tab-key.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/esanai/karabiner-scripts/master/vi-mode.json
 ```
 This script is modified version of [Vi Mode (rev 4.3)](https://pqrs.org/osx/karabiner/complex_modifications/#vi_mode).
 
